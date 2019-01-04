@@ -1,0 +1,16 @@
+
+<div class="wrapper">
+  <center> <a href="/index.html"><div class="site-title">   {{site.title}} </div></a></center>
+</div>
+<div class="wrapper site-description">
+<center>  {{site.description}} </center>
+</div>
+<div class="wrapper">
+  <div class="trigger site-navigation">
+    <a class="page-link" href="{{site.url}}{{site.baseurl}}">BOOK WITTERINGS</a><span class="exclamationMark">/</span>
+    <a class="page-link" href="/phd-archive/">PHD ARCHIVE</a><span class="exclamationMark">/</span>
+    <a class="page-link" href="/about/">ABOUT ME</a>
+
+    <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+  </div>
+</div>

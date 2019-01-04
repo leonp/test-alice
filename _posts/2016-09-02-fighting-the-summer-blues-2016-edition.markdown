@@ -1,0 +1,23 @@
+---
+date: 2016-09-02 10:46:20+00:00
+layout: post
+title: Fighting the Summer Blues, 2016 Edition
+category: phd-archive
+excerpt: "Long-term readers will be aware that I am not good at summer."
+---
+
+Long-term readers will be aware that I am not good at summer.  Things stop happening on campus, nobody is around, any academic I try to contact is out of the office, my skin goes to hell, and the heat just makes me feel uncomfortable and ill.  This year, although it was an advantage that I finished my PhD when I did as I had pretty much all of my final scholarship payment to keep me going while looking for a job, I discovered that the job market is pretty much dead during August. 
+
+However, to my surprise, I did manage to keep myself occupied and largely ‘up’ during the month.  It’s only been this week, as August has ended and September has begun, that I’ve really gone on a downer and had a case of the ‘useless and hopelesses’.  I normally love the change in the seasons, but eight weeks of little progress, and the fact that although jobs are starting to come up again, the deadlines are ages away, has broken me a bit.  But this post is about how I (mostly) got through August.
+
+**Little treats.** I’m not in a position where I feel comfortable spending large amounts of money at once.  However, I wanted some small things to look forward to in the post, so I signed up for a beauty box, something I’ve been meaning to do for a while.  In fact, I ended up getting three boxes at once for the price of one due to an offer, so I had lots of samples and full-size products to try.  In particular, I’ve had a go at highlighting, discovered a lovely perfume that will be my ‘signature scent’, and received a great eyeliner and lip crayon that will last me a while.  I’ve also picked up samples of face and hair masks from various places, which have been nice to use.  I’ve also had the usual summer treats of ice creams, smoothies, iced lemonades, and frappes - in moderation, of course!
+
+**Days out.** With every week that speeds by, a holiday is looking less and less likely for me and my partner this year.  But we have been on a couple of days out, to Cambridge, where we visited the Centre For Computing History and went shopping, and Southend, where we visited the aquarium and arcade, and walked the length of the 1.3 mile pier.  We’ve got ourselves out of the house, seen new places, and created some memories.  I also went to London to catch up with friends one day.
+
+**General things I enjoy.** I keep feeling guilty on days when I don’t feel like doing anything productive, then reminding myself that, if there are no job applications due, there’s nothing I actually *have* to be doing.  Colouring-in is a particular go-to at the moment, as even though it’s fun, I have something to show for it at the end, and am making progress through a few books.  In the same way, I get a sense of progress as I work my way through episodes of <cite>The X Files</cite>.  As ever, I’m reading a lot - but trying to read books that are either cheap or free, or on my TBR pile, rather than splashing out on new books that are still ridiculously expensive, even on Kindle.  I’m saving them for when I have vouchers (I sometimes get them for doing surveys, and my birthday is coming towards me at remarkable speed).  I’m still going to the gym in the mornings too, so that I get out of bed at a reasonable time and can kind of feel like I’m working on *something*.  
+
+**Work experience.** Although my two weeks (spread over multiple weeks) at Glass of Bubbly are up, I’m still going in once a week because a) I enjoy it, b) it gets me out of the house, c) it fills a gap on my CV, d) it’s not like there’s any paid work I could be doing, and e) it doesn’t cost me anything, as my student bus pass hasn’t run out yet.  I ended up proofreading the recent issue of the magazine, and it was really exciting to see it in print.  It looks so smart!
+
+**Journal articles.** I’ve drafted one journal article so far, and I’m waiting for my supervisor’s thoughts about it.  I wasn’t going to start another one until I’d heard back, but I might get so bored and feel so unproductive next week that I end up starting another one.  I like writing, I just wasn’t planning on writing another big piece so soon - especially as I don’t know how long I’m going to be free for, another argument in favour of spreading them out a bit.    
+
+I fully expected to have a transitional period between PhD and employment, and I think I’m doing all the right things, but I guess deep down I was hoping it wouldn’t be too long.  I don’t like not knowing when this purgatory is going to end, and wish something exciting would happen!

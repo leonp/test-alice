@@ -1,0 +1,29 @@
+---
+author: pokesqueak
+comments: true
+date: 2015-11-06 11:37:36+00:00
+layout: post
+link: http://aliceismoving.home.blog/2015/11/06/a-course-in-psychoanalytic-methodologies/
+slug: a-course-in-psychoanalytic-methodologies
+title: A Course in Psychoanalytic Methodologies
+wordpress_id: 78
+---
+
+On Wednesday, I went on a course about psychoanalytic methodologies at my university, broadly aimed at people in the humanities and social sciences who might want to use such methodologies, but don’t know a huge amount about them.  I decided to go in case I could pick up anything that would add ‘sparkle’ to my thesis - obviously as I’m in third year, it’s a bit late to give them a huge place in it.  Plus, if I stay in academia (and that’s currently a very big IF), I might be able to use them in future projects.
+
+A key part of psychoanalysis I learned about, in a session with Michael Roper, was the idea of transference and countertransference in the interview setting.  When Roper interviews people, he tends not to have a rigid question schedule, so that things that might not otherwise come out are more likely to, and he pays close attention to how the interviewee transfers their feelings into him to get a point across, and how he, in turn, projects back onto the interviewee.  There’s an emphasis on the relationships going on - between interviewer and interviewee, as well as between them and whoever ends up listening to the interview in the future.    
+
+
+As all the interviews I’ve used for my thesis are second-hand, I’m only ever the audience, so I don’t think I can apply this directly right now.  There was a discussion in the afternoon with Kevin Lu about whether you can really get transference/countertransference with historical sources.  I would say ‘yes’ to the former, as I feel empathy for the people whose lives I listen and read about, and can often detect to some extent what’s going on between them and the interviewer, but ‘no’ to the latter, as obviously I can’t transfer feelings back to people who I’ve never communicated with, or are dead.  I think the use of this method also depends on what kind of history you’re trying to do.  I’ve said before that I do have ‘favourite’ autobiographers and interviewees - ones who were relatable, interesting, or gave me a lot of material - as well as ones I didn’t like so much.  However, I take care not to privilege those whose stories made me feel good over those who I was less keen on, because I’m trying to produce an even coverage of a variety of only-child experiences.
+
+Roper raised a number of other points about the interview process; one that particularly grabbed me, and came up again in Lu’s session, was that interviewees are invested in particular positions in their life stories in order to protect vulnerable aspects of themselves.  I thought this was particularly applicable to only children, as I often come across them attributing certain aspects of personality to only-ness, when I wasn’t so sure that was necessarily the main cause.  Lu pointed out that a potential pitfall of using psychoanalytic methodologies in history is that you might end up with ‘problems of logic’, where you erroneously attribute things to the your pet causes, e.g. the loss of a parent.  In some ways I think/hope I’m doing the opposite of that, by looking to a whole range of causes other than being only children for people’s faults, but then again, what if being an only child _was_ the ultimate cause of all their problems and I’m being deliberately blind to it.  I can only use my evidence and hope for the best, I suppose…  
+
+
+Another thing we learnt about, from Nikolay Mintchev, was the idea of ‘applying psychoanalysis in the social field’.  His particular example was racism; having been unable to find an external reason for the persistence of racism (which has manifested externally in different ways historically), we must look at people’s inward mechanisms (which have stayed the same, but adapted to the context).  I’m wondering if this has any relation to people’s continued prejudice against only children despite the increase of perfectly functional onlies over time.
+
+Jason Glynos’ session on discourse and fantasy, in relation to newspaper reporting of the MPs’ expenses scandal a few years ago, also got me thinking about why only children were, and continue to be, frowned upon.  One of Glynos’ points was that the newspapers appealed to an ideal of a fictional past where MPs were honourable and respectable, and contrasted it with endless reports of stupidly small and ridiculously large expses claims.  There’s also an element of portraying MPs as ‘baddies’ in that they enjoy themselves excessively at our expense.  Can this be detected in the discourse about only children too?  I may be over-simplifying here, but it’s an explanation that does seem to apply - writers harked back to a time of large families frolicking together, conveniently forgetting that such families were expensive to maintain, lived in extreme poverty if they were working class, and suffered more child mortality than at the time they were writing.  Perhaps they were actually jealous of ‘spoiled’ only children who had gilded childhoods compared with their own, or were enjoying themselves too much at the supposed expense of the society they would have difficulty fitting into as future adults?
+
+Overall, the methodologies I learned about seemed logical and sensical.  I’m always a bit sceptical about psychoanalysis because of all the seemingly arbitrary stuff involved in analysing people - I did groan a bit when I was doing some preliminary reading for the course, and the writer claimed that a pair of aeroplanes in a patient’s dream symbolised breasts.  I do feel a bit smarter for having been on the course, though!  
+
+
+![image](https://66.media.tumblr.com/c41637881c9f456d707a1184b1cfdf01/tumblr_inline_nxe5mgpWXb1s70b7a_540.jpg)
